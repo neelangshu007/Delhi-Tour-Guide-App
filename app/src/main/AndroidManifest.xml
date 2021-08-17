@@ -13,6 +13,9 @@
         android:theme="@style/Theme.TourGuideApp">
         <activity
             android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Splash"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

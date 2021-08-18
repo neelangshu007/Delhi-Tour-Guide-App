@@ -1,5 +1,5 @@
 # Delhi-Tour-Guide-App
-* Delhi Guide is a simple tour guide app that presents relevant information as in places and events to visit to a user who’s visiting Delhi for the first time.
+Delhi Guide is a simple tour guide app that presents relevant information as in places and events to visit to a user who’s visiting Delhi for the first time.
 
 ## Pre-requisites
 - Android SDK v23

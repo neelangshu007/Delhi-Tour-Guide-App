@@ -32,7 +32,7 @@ This sample uses the Gradle build system. To build this project, use the
 5. Create a new Pull Request
 
 ## Delhi Guide App Screenshots 
-![Splash Screen](screenshots/ss1.png)
+![](screenshots/ss1.png)
 ![](screenshots/ss2.png)
 ![](screenshots/ss3.png)
 ![](screenshots/ss4.png)
